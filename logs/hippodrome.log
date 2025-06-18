@@ -1,0 +1,9 @@
+2025-06-18 16:14:38,101 INFO  Horse: Created a Horse named [Houdini] with speed [2.4]
+2025-06-18 16:14:38,103 INFO  Horse: Created a Horse named [Comanche] with speed [2.5]
+2025-06-18 16:14:38,103 INFO  Horse: Created a Horse named [Ranger] with speed [2.6]
+2025-06-18 16:14:38,103 INFO  Horse: Created a Horse named [Elvis] with speed [2.7]
+2025-06-18 16:14:38,103 INFO  Horse: Created a Horse named [Yoda] with speed [2.8]
+2025-06-18 16:14:38,103 INFO  Horse: Created a Horse named [Pegasus] with speed [2.9]
+2025-06-18 16:14:38,104 INFO  Horse: Created a Horse named [Shelby] with speed [3.0]
+2025-06-18 16:14:38,110 INFO  Hippodrome: Created a Hippodrome with [7] horses
+2025-06-18 16:14:38,110 INFO  Main: Start of the race. Number of participants: 7
